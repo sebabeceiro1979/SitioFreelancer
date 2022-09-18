@@ -1,2 +1,2 @@
 # SitioFreelancer
-Sitio Freelancer es un proyectos muy sencillo, pero 100% practico en donde pude practicar HTML, CSS, FLEXBOX, etc., sin la necesidad de usar ningun framework
+Freelancer Site it's a very simlple and 100% practical project where I could practice HTML, CSS, and others tools, like modernizr. 
