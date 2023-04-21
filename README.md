@@ -1,21 +1,37 @@
-## Sites for Freelancers ##
+# FreelancerSite
 
-Freelancer Site is a straightforward and useful project designed to help you practice with tools like Normalize, CSS, and HTML. This website template is intended for independent contractors who wish to present their offerings and abilities in a tidy and stylish manner.
+FreelancerSite is a portfolio website for freelancers who want to showcase their skills, projects, and services to potential clients.
 
-## Feature ##
+Visit the website at https://sb-freelancersite.netlify.app/
 
-- Design that is responsive to different devices
-- A slick menu for navigation
-- Hero section containing the name and location of the designer
-- A section titled "Services" that lists three main offerings: design, web applications, and e-commerce - A contact form for customers to use - Copyright information in the footer
+## Technologies Used
 
-## Technologies Employed ##
+This project is built with the following technologies:
 
-- Normalize.css - HTML5 - CSS3 - Google Fonts
+- HTML5
+- React
+- CSS
+- Bootstrap 5
 
-## How to Use ##
+## Major Changes
 
-1. Download the repository or clone it
-2. Launch the 'index.html' file in your favourite web browser.
-3. Modify the photos, content, and styles to suit your needs.
-4. Distribute the altered files to your choice
+- Initial version: Website created with pure HTML and CSS.
+- Current version: Migration to React and Bootstrap 5 to improve user experience, responsiveness, and code maintainability.
+
+## Installation and Local Execution
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+git clone https://github.com/sebabeceiro1979/SitioFreelancer.git
+
+2. Enter the project directory:
+cd freelancersite
+
+3. Install dependencies:
+npm install
+
+4. Run the project in development mode:
+npm start
+
+The website will be available at `http://localhost:3000` (or the port specified by your configuration).
