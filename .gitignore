@@ -5,3 +5,7 @@
 
 # production
 /build
+
+# others
+/css
+/img
